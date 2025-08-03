@@ -1,12 +1,14 @@
 # IBM-Cloud-Project
-IBM cloud project details and files as well the complete project pdf file
+
 
 🧠 Fitness Buddy – Agentic AI Wellness Assistant
 IBM Cloud Project (No-Code)
 
 
+
 📌 Project Summary:
 Fitness Buddy is a no-code virtual assistant developed on IBM Watson Assistant using the agentic AI (instruction-driven) framework. It is designed to offer personalized fitness, wellness, and nutrition suggestions to users in a conversational format. The solution was built without traditional coding or dialog scripting—only by configuring instructions that guide the agent’s behavior, leveraging IBM’s newest no-code architecture.
+
 
 
 🧰 Tools & Technologies:
@@ -17,11 +19,14 @@ IBM Cloud
 IBM Deployment Space
 
 
+
 🧭 Development Workflow:
+
 1. Sign In to IBM Cloud
 Go to: https://cloud.ibm.com/
 
 Log in or create a new IBM Cloud account.
+
 
 2. Set Up Watson Assistant
 Navigate to the Catalog
@@ -30,8 +35,10 @@ Search for Watson Assistant
 
 Click Create and select the Lite (Free) Plan
 
+
 3. Launch the Assistant Tool
 Once the service is created, click Launch Watson Assistant
+
 
 4. Create a New AI Agent
 Click Create to start a new assistant
@@ -42,6 +49,7 @@ Name your agent: Fitness Buddy
 
 Choose a preferred language (e.g., English)
 
+
 5. Define Agent Instructions
 In the Instructions tab, enter a detailed description that explains the purpose and role of the assistant. Example:
 
@@ -50,6 +58,7 @@ Provide motivational tips and daily fitness inspiration.
 Suggest simple, nutritious meal ideas.
 Encourage habit-building and consistency."
 These instructions define how the agent behaves—no dialog trees or coding needed.
+
 
 6. Test the Assistant
 Use the Preview feature to test interactions
@@ -64,6 +73,7 @@ Try prompts like:
 
 The agent responds based on the instruction block provided—no flows or intents required.
 
+
 7. Deploy the Agent
 Go to the Deployment section
 
@@ -72,6 +82,7 @@ Click Create Deployment
 Choose Web Chat or generate a shareable preview link
 
 Copy the link for embedding or sharing with users
+
 
 
 ✅ Key Features
