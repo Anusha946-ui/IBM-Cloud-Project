@@ -4,17 +4,20 @@ IBM cloud project details and files as well the complete project pdf file
 🧠 Fitness Buddy – Agentic AI Wellness Assistant
 IBM Cloud Project (No-Code)
 
-📌 Project Summary
+
+📌 Project Summary:
 Fitness Buddy is a no-code virtual assistant developed on IBM Watson Assistant using the agentic AI (instruction-driven) framework. It is designed to offer personalized fitness, wellness, and nutrition suggestions to users in a conversational format. The solution was built without traditional coding or dialog scripting—only by configuring instructions that guide the agent’s behavior, leveraging IBM’s newest no-code architecture.
 
-🧰 Tools & Technologies
+
+🧰 Tools & Technologies:
 IBM Watson Assistant (Instruction-Based Agent setup)
 
 IBM Cloud
 
 IBM Deployment Space
 
-🧭 Development Workflow
+
+🧭 Development Workflow:
 1. Sign In to IBM Cloud
 Go to: https://cloud.ibm.com/
 
@@ -69,6 +72,7 @@ Click Create Deployment
 Choose Web Chat or generate a shareable preview link
 
 Copy the link for embedding or sharing with users
+
 
 ✅ Key Features
 Fully built with IBM’s no-code agentic AI tools
