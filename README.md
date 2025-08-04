@@ -45,7 +45,7 @@ Click Create and select the Lite (Free) Plan
 Once the service is created, click Launch Watson Assistant
 
 
-5. Create a New AI Agent
+4. Create a New AI Agent
    
 Click Create to start a new assistant
 
