@@ -12,6 +12,7 @@ Fitness Buddy is a no-code virtual assistant developed on IBM Watson Assistant u
 
 
 🧰 Tools & Technologies:
+
 IBM Watson Assistant (Instruction-Based Agent setup)
 
 IBM Cloud
@@ -64,6 +65,8 @@ These instructions define how the agent behaves—no dialog trees or coding need
 Use the Preview feature to test interactions
 
 Try prompts like:
+
+"How many calories will i burn in a 30-minute run"
 
 “Help me get fit”
 
